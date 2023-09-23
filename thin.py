@@ -9,4 +9,4 @@ while not auth:
   else:
     print("That user doesn't exist. Please Try Again.")
 dir = "~"
-command = input(f"{user}@thinclient:{dir}$")
+command = input(f"{user}@thinclient:{dir}$ ")
